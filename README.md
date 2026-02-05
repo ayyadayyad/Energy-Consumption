@@ -85,9 +85,6 @@ The dataset was obtained from the [Power-BI GitHub repository](https://github.co
 - Documentation files
 
 ### Visual Documentation
-![Dashboard Overview](https://raw.githubusercontent.com/ayyadayyad/Energy-Consumption/refs/heads/main/pic.PNG)
-
-*Dashboard Interface: Main analytical view showing consumption metrics across multiple dimensions*
 
 ![Interactive Dashboard Demo](https://raw.githubusercontent.com/ayyadayyad/Energy-Consumption/refs/heads/main/jeff.GIF)
 
